@@ -11,6 +11,6 @@ There is a medium article which has explained steip by step implementation of th
 <br />
 [Click here to read the full article](https://medium.com/@katramesh91/swift-fast-easy-api-mocking-simplifying-unit-testing-and-service-mocking-using-urlprotocol-ef7d1328fc63)
 
-<img src = "images/thumbnail.png.png" width ="500" />  
+<img src = "images/thumbnail.png" width ="500" />  
 
  
